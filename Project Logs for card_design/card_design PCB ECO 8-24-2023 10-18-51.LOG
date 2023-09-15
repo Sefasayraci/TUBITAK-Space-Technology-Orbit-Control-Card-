@@ -1,0 +1,16 @@
+Added Component: Designator=L1(resistor)
+Added Component: Designator=R1(resistor)
+Added Pin To Net: NetName=NetS1_1 Pin=Q1-30
+Added Pin To Net: NetName=NetS1_1 Pin=R1-1
+Change Net Name : Old Net Name=NetS1_1 New Net Name=NetQ1_30
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=T5-A
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetQ1_19 Pin=Q1-19
+Added Pin To Net: NetName=NetQ1_19 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_19 Pin=T4-1
+Added Net: Name=NetQ1_19
+Added Member To Class: ClassName=card_design Member=Component L1 resistor
+Added Member To Class: ClassName=card_design Member=Component R1 resistor

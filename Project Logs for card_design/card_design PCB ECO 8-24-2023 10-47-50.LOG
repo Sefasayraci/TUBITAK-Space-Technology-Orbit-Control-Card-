@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(esp32cam)
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-8
+Added Pin To Net: NetName=GND Pin=Q2-12
+Added Pin To Net: NetName=GND Pin=Q2-16
+Added Member To Class: ClassName=card_design Member=Component Q2 esp32cam

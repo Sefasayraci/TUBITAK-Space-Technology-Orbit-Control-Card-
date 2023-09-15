@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: card_design.PcbDoc   8/25/2023  10:06:49
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : card_design.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.65mm (26mil)                                            Round             2         PTH        3.50mm (0.14inch)
+T2      0.711mm (28mil)                                           Round             2         PTH        17.27mm (0.68inch)
+T3      0.762mm (30mil)                                           Round             11        PTH        42.42mm (1.67inch)
+T4      0.8mm (31mil)                                             Round             2         PTH        4.00mm (0.16inch)
+T5      0.889mm (35mil)                                           Round             28        PTH        205.50mm (8.09inch)
+T6      0.9mm (35mil)                                             Round             46        PTH        201.29mm (7.92inch)
+T7      1mm (39mil)                                               Round             2         PTH        2.54mm (0.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              93
+
+Total Processing Time (hh:mm:ss) : 00:00:00

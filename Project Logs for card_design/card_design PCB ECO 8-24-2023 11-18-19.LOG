@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=card_design Member=T5
+Change Component Designator: OldDesignator=L1 NewDesignator=R2
+Change Component Designator: OldDesignator=T5 NewDesignator=L1
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetQ1_8
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL1_A
+Added Member To Class: ClassName=card_design Member=Component R2 resistor
+Added Room: Name=card_design

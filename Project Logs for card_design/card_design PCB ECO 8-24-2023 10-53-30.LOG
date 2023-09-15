@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetQ1_13 Pin=Q1-13
+Added Pin To Net: NetName=NetQ1_13 Pin=Q2-15
+Added Net: Name=NetQ1_13
+Added Pin To Net: NetName=NetQ1_14 Pin=Q1-14
+Added Pin To Net: NetName=NetQ1_14 Pin=Q2-14
+Added Net: Name=NetQ1_14
+Added Room: Name=card_design

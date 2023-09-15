@@ -1,0 +1,28 @@
+Added Component: Designator=B1(power)
+Added Component: Designator=Q1(nano)
+Added Component: Designator=S1(switch)
+Added Component: Designator=T1(mpu6050)
+Added Component: Designator=T2(bmp085)
+Added Component: Designator=T3(hmc5883l)
+Added Component: Designator=T4(ldr)
+Added Component: Designator=T5(led)
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=Q1-29
+Added Pin To Net: NetName=GND Pin=T1-7
+Added Pin To Net: NetName=GND Pin=T4-2
+Added Pin To Net: NetName=GND Pin=T5-C
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=S1-3
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=S1-2
+Added Pin To Net: NetName=NetS1_1 Pin=T1-8
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=NetT1_5 Pin=T1-5
+Added Net: Name=NetT1_5
+Added Pin To Net: NetName=NetT1_6 Pin=T1-6
+Added Net: Name=NetT1_6
+Added Class: Name=card_design
+Added Room: Name=card_design
